@@ -1,9 +1,31 @@
 # 📊 Telecom X – Predicción de Cancelación de Clientes (Churn)
 
+## 🚀 Cómo Clonar y Ejecutar el Proyecto
+
+Este repositorio contiene el análisis completo para predecir la cancelación de clientes en Telecom X. Si deseas replicarlo en tu entorno local, sigue estos pasos:
+
+### 🔧 Requisitos Previos
+
+- Python 3.8 o superior
+- Git instalado en tu sistema
+- Conexión a internet para descargar el dataset
+- Recomendado: entorno virtual para aislar dependencias
+
+---
+
+### 📥 Clonar el Repositorio
+
+Abre tu terminal y ejecuta:
+
+```bash
+git clone https://github.com/HectorCano96/challenge_telecomX_2.git
+cd challenge_telecomX_2
+
 ## 📥 Acceso a los Datos
 
 El conjunto de datos utilizado en este proyecto puede descargarse directamente desde el siguiente enlace:
 
+https://github.com/HectorCano96/challenge_telecomX_2/blob/main/telecomX_preparado.csv
 
 ### Ejemplo de carga en Python:
 
